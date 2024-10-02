@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @erFuculo :)
-- 👀 I’m interested in become a Data Engineer
-- 🌱 I’m currently learning SQL (with PostgreSQL and MySQL), Java, Python and BI visualizations softwares (Power BI and Looker Studio)
-- 💞️ I’m looking to collaborate on open source projects and Data related projects 
-- 📫 You may reach me through LinkedIn (Erick Fuculo) or by my e-mail (erfuculo@gmail.com)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm so shy that I may stutter when talking. working on it lol
-
-
+- 👋 Hi, I’m @erFuculo! :)
+- 👀 I’m interested in becoming a Data Engineer.
+- 🌱 I’m currently learning SQL (with PostgreSQL and MySQL), Java, Python, and BI visualization software (Power BI and Looker Studio).
+- 💞 I’m looking to collaborate on open source and data-related projects.
+- 📫 You can reach me through LinkedIn (Erick Fuculo) or by email (erfuculo@gmail.com).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm so shy that I sometimes stutter when talking. I'm working on it, lol.
